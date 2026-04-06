@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Victor Ferreira
 
-<!--
-**victorhferreira02/victorhferreira02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Focado no Front-end
+
+---
+
+## 🧠 Sobre mim
+
+Sou desenvolvedor front-end em formação, focado atualmente em ganhar conhecimento e profissionalismo em React e outros frameworks
+
+Estou em busca da minha primeira oportunidade na área, onde eu possa aplicar meus conhecimentos e continuar evoluindo como desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🛒 Amazon Clone (JavaScript)
+
+Projeto de e-commerce inspirado na Amazon, com foco em lógica de programação e manipulação de DOM, OOP, Async Await
+
+🔗 -
+
+---
+
+## 📈 Em evolução
+
+Atualmente estudando e evoluindo em:
+
+* Estruturação de projetos front-end
+* Boas práticas de código
+* Consumo de APIs
+* Organização de código
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/victor-ferreira-aa02b0223/
+
+---
+
+⭐ Sempre buscando evoluir como desenvolvedor e construir projetos cada vez mais completos.
