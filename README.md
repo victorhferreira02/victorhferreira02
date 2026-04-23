@@ -30,7 +30,7 @@ Estou em busca da minha primeira oportunidade na área, onde eu possa aplicar me
 
 Projeto de e-commerce inspirado na Amazon, com foco em lógica de programação e manipulação de DOM, OOP, Async Await
 
-🔗 -
+🔗 - https://ecommerce-frontend-js-six.vercel.app/
 
 ---
 
